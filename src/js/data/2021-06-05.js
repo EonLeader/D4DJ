@@ -14,7 +14,6 @@ dataSet[dataSetVersion].options = [
 	  { name: "Merm4id", key: "M4" },
 	  { name: "RONDO", key: "RO" },
 	  { name: "Lyrical Lily", key: "LL" },
-	  { name: "Lyrical Lily", key: "LL" },
       { name: "Others", key: "D4" },
     ]
   }
