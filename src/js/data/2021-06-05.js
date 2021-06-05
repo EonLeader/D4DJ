@@ -186,36 +186,41 @@ dataSet[dataSetVersion].characterData = [
     img: "CJe4YgD.png",
     opts: {
       unit: [ "LL" ]
-    },
+    }
+	},
   {
     name: "Airi Amano",
     img: "IoGneQi.png",
     opts: {
       unit: [ "D4" ]
-    },
+    }
+	},
   {
     name: "Mana Kase",
     img: "6Pc2VpM.png",
     opts: {
       unit: [ "D4" ]
-    },
+    }
+	},
   {
     name: "Shano Himegami",
     img: "bJTG6Du.png",
     opts: {
       unit: [ "D4" ]
-    },
+    }
+	},
   {
     name: "Touka Takao",
     img: "V7QJNKC.png",
     opts: {
       unit: [ "D4" ]
-    },
+    }
+	},
   {
     name: "Michiru Kaibara",
     img: "HijirYo.png",
     opts: {
       unit: [ "D4" ]
-    },
+    }
   }
 ];
